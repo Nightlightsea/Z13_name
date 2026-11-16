@@ -1,4 +1,4 @@
-![img0](media/Z13_cipher_full.webp)
+![img0](media/Z13_cipher_full-resize.png)
 
 ## **Foreword**
 
