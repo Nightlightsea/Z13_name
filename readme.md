@@ -45,6 +45,10 @@ Read the two groups backwards, from right to left, and you get ANY, then ONE: "a
 
 ![img6](media/Z13_anyone.png)
 
+Also cool is, if you turn the letter 90° clockwise, the beginning letter of the previous sentence, cipher, next sentence form "I AM", together it would make "I AM ANYONE".
+
+![imgIAM](media/IAM-ANYONE.png)
+
 I don't know if zodiac read homers odeysseus, but what is interesting is that this has also a bit of a parallel with when odeysseus tricked the cyclops by calling himself nobody.
 ```QUOTE
 "Cyclops, you asked my noble name, and I will tell it; but do you give the stranger's gift, just as you promised. 
@@ -54,11 +58,18 @@ Nobody I am called by mother, father, and by all my comrades."
 
 
 ### Second:
-Turn the two groups around so they read left to right, and the whole cipher becomes readable: "A ONE K, MANY M", one thousand, many million. That adds to his question about how much money is on his head.
+Turn the two groups around so they read left to right, and the whole cipher becomes readable: "A ONE K. MANY M", one thousand, many million. That adds to his question about how much money is on his head.
 
 ![img7](media/Z13_KM.png)
 
 So you get both an answer to "my name is---" and an addition to the reward question.
+
+Something that i have to adress too is that i added . and ? to "A ONE K. MANY M?".
+There is also a hint to that in the punchhole card. he got his sentences from newpapers but for when he asked for a reward money again
+".FK i'm crackproof. What is the price tag now?" 
+He instead of using text from newspaper wrote the . and ? himself so maybe this is a hint?
+
+![punch](media/anyone-stuff.png)
 
 ### **The $1,000**
 
@@ -73,7 +84,7 @@ This news was likely what prompted the Zodiac Killer to open this communication 
 source: https://www.zodiacciphers.com/my-name-is-cipher.html
 ```
 
-The Questions "A one Thousand, many Million?" would hint that he thinks that $1,000 is far to low, and it hurt his ego, making it also a taunt.
+The Questions "A one Thousand. many Million?" would hint that he thinks that $1,000 is far to low, and it hurt his ego, making it also a taunt.
 
 ![reward](media/900x0_Resize.jpg)
 
