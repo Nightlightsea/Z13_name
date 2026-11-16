@@ -84,7 +84,7 @@ This news was likely what prompted the Zodiac Killer to open this communication 
 source: https://www.zodiacciphers.com/my-name-is-cipher.html
 ```
 
-The Questions "A one Thousand. many Million?" would hint that he thinks that $1,000 is far to low, and it hurt his ego, making it also a taunt.
+The Questions "A one Thousand. many Million?" would show that he thinks that $1,000 is far to low, and it hurt his ego, making it also a taunt.
 
 ![reward](media/900x0_Resize.jpg)
 
