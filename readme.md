@@ -16,41 +16,46 @@ The O was turned into a crosshair, and the Y was drawn as the Greek Y (upsilon) 
 
 ![Z13](media/Only_Z13_color.png)
 
-At first I didn't know what was going on in the cipher. But I thought it was slightly odd that, right after the cipher, he asks for a reward money for him ("I am mildly cerous as to how much money you have on my head now"). Then I realized that the K and M are serperated by the circled 8s from the rest of the cipher, they could be abbreviations for large numbers, 
+At first I didn't know what was going on in the cipher. But I thought it was slightly odd that, right after the cipher, he asks for a reward money for him ("I am mildly cerous as to how much money you have on my head now"). Then I realized that the K and M are serperated by the circled 8s from the rest of the cipher, they have to be somehow special, i thought they might be initials, but in conjuction with the reward question, it came to my mind that they could actually be abbreviations for large numbers, 
 thousand and million.
 
 ![img2](media/large-number-abbreviations_resize.png)
 
-If so, I thought there might be an amount somewhere in the cipher, and there it was: ONE and MANY, written in reverse. Turned around, they give "A one K, M many", or intepreting this it would be "A one thousand, many million". that would be an addition to the reward money question, but it would be missing the answer for "My name is---", so i looked further.
+If so, I thought there might be something more in the cipher that points to this, and there it was: ONE and MANY, an amount, written in reverse. 
+Turned around, they give "A one K, M many", or intepreting this it would be "A one thousand. many million.". that would be an addition to the reward money question, but it would be missing the answer for "My name is---", so i looked further.
 
 ### **The punch-hole card**
 
-On the punch-hole card he also asks about the reward money ("What is the price tag now?"), and the card has 13 holes which is why I think the two are connected. If you fill them with the cipher, it doesn't matter which way you hold the card or from which end you fill the holes with the cipher. Because the rows are staggered, the circled 8s always end up in a different row. So the card seems to indicate that the circled 8s should be filtered out. They may also have a meaning of their own, but it seems they're primary there as spacers for K and M.
+On the punch-hole card he also asks about the reward money ("What is the price tag now?"), and the card has 13 holes it isn't unlikely that they are connected. 
+If you fill the holes with the cipher, it doesn't matter which way you hold the card or from which end you fill the holes, because the rows are staggered, the circled 8s always end up in a different row. So the card seems to indicate that the circled 8s should be filtered out. They may also have a meaning of their own, but it seems they're primary there as spacers for K and M. Possibly to make us understand that they are special, in this case as large number abbreviations.
 
 ![img4](media/8fillter.png)
 
 
 ### **The N three-letter groups**
 
-With the circled 8s treated as nulls/spacers, the cipher is 10 symbols long and would also fit with his claimed killcount of "ten" in the letter.
+With the circled 8s treated as nulls/spacers, the cipher is 10 symbols long and would also fit with his claimed killcount of "ten" in the Z13 letter.
 It has two equal halves. Each half has an N in the middle and every N is the middle of a three-letter group: ENO in the first half and YNA in the second. Those are ONE and ANY in reverse.
 
 ![img5](media/Z13_CENTER_N.png)
+
+* **seperated only for visual clarity**
 
 
 ## **Two readings**
 
 ### First:
-Read the two groups backwards, from right to left, and you get ANY, then ONE: "anyone". That could be the answer to "My name is —". 
+Read the two groups backwards, from right to left, and you get ANY, then ONE: "anyone". 
+That could be the answer to "My name is —". 
 
 ![img6](media/Z13_anyone.png)
 
-Also cool is, if you turn the letter 90° clockwise, the beginning letter of the previous sentence, cipher, and next sentence form "I AM", together it would make "I AM ANYONE".
+Also cool is, if you turn the letter 90° clockwise, the first letter of the previous sentence ("M"), cipher ("A"), and next sentence ("I") form "I AM", together it would make "I AM ANYONE".
 
 ![imgIAM](media/IAM-ANYONE.png)
 
-I don't know if zodiac read homers odyssee by how many greek symbols he uses in his ciphers it wouldn't be suprising.
-What is interesting is that this has also a bit of a parallel with when odeysseus tricked the cyclops by calling himself "nobody".
+This might be coincidence.
+I don't know if zodiac read homers odyssee, but what is interesting is that this has also a bit of a parallel with when odeysseus tricked the cyclops by calling himself "nobody".
 ```QUOTE
 "Cyclops, you asked my noble name, and I will tell it; but do you give the stranger's gift, just as you promised. 
 My name is Nobody.
@@ -58,18 +63,11 @@ Nobody I am called by mother, father, and by all my comrades."
 ```
 
 ### Second:
-Turn the two groups around so they read left to right, and the whole cipher becomes readable: "A ONE K. MANY M", one thousand, many million. That adds to his question about how much money is on his head.
+Turn the two groups around so they read left to right, and the whole cipher becomes readable: "A ONE K MANY M", one thousand, many million. You have two sentences if every half is it's own. That adds to his question about how much money is on his head.
 
 ![img7](media/Z13_KM.png)
 
-So you get both an answer to "my name is---" and an addition to the reward question.
-
-Something that i have to adress too is that i added . and ? to "A ONE K. MANY M?".
-There is also a hint to that in the punchhole card. he got his sentences from newpapers but for when he asked for a reward money again
-".FK i'm crackproof. What is the price tag now?" 
-He instead of using text from newspaper wrote the . and ? himself so maybe this is a hint?
-
-![punch](media/anyone-stuff.png)
+So you get both an answer to "my name is---" and an addition to the reward question, by only reversing 2 trigrams.
 
 ### **The $1,000**
 
@@ -88,7 +86,17 @@ The Questions "A one Thousand. many Million?" would hint that he thinks that $1,
 
 ![reward](media/900x0_Resize.jpg)
 
+### Punctuation:
+Something that i may have to adress is that i added . and ? to "A ONE K. MANY M?".
+There is also a hint to that in the punchhole card. he got his sentences from newpapers but for when he asked for a reward money again
+".FK i'm crackproof. What is the price tag now?" 
+He instead of using text from newspaper wrote the . and ? himself so maybe this is a hint, or just coincidence?
+
+![punch](media/anyone-stuff.png)
+
 ## Result
+
+Either way, here are the end results as picture and animation.
 
 ### Picture:
 
