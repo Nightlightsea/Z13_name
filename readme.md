@@ -6,52 +6,64 @@ I know this theory will be heavily criticized, so I'll address the main criticis
 
 ### **No real substitution**
 
-I don't think any symbols in the cipher were actually replaced. Everything is as it appears, except that two letters were altered slightly. The O was turned into a crosshair, and the Y was drawn as the Greek Y (upsilon) turned upside down.
+I don't think any symbols in the cipher were actually completly replaced. 
+Everything is as it appears, except that two letters were altered slightly.
+The O was turned into a crosshair, and the Y was drawn as the Greek Y (upsilon) turned upside down.
 
 ![img1](media/Upsilonconnection.drawio.png)
 
----
-
-### **How I got there**
+## **How I got there**
 
 ![Z13](media/Only_Z13_color.png)
 
-At first I didn't know what was going on in the cipher. But I thought it was slightly odd that, right after the cipher, he asks for a reward money for him ("I am mildly cerous as to how much money you have on my head now"). Then I realized the K and M which are serperated by the circled 8s from the rest of the cipher, and might be abbreviations for large numbers, 
+At first I didn't know what was going on in the cipher. But I thought it was slightly odd that, right after the cipher, he asks for a reward money for him ("I am mildly cerous as to how much money you have on my head now"). Then I realized that the K and M are serperated by the circled 8s from the rest of the cipher, could be abbreviations for large numbers, 
 thousand and million.
 
 ![img2](media/large-number-abbreviations_resize.png)
 
-If so, I thought there might be an amount somewhere in the cipher, and there it was: ONE and MANY, written in reverse. Turned around, they give "A one K, M many", so "A one thousand, many million". that would be an addition to the reward money question, but it would be missing the answer for the lead in to the cipher "My name is---", so i looked further.
+If so, I thought there might be an amount somewhere in the cipher, and there it was: ONE and MANY, written in reverse. Turned around, they give "A one K, M many", or intepreting this it would be "A one thousand, many million". that would be an addition to the reward money question, but it would be missing the answer for "My name is---", so i looked further.
 
 ### **The punch-hole card**
 
-On the punch-hole card he also asks about the reward money ("What is the price tag now?"), and the card has 13 holes which is why I think the two are connected. If you fill them with the cipher, it doesn't matter which way you hold the card or from which end you fill the holes with the cipher. Because the rows are staggered, the circled 8s always end up in a different row. So the card seems to indicate that the circled 8s should be filtered out. They may also have a meaning of their own, but it seems they're primary there as spacers for the K and M abbreviations.
+On the punch-hole card he also asks about the reward money ("What is the price tag now?"), and the card has 13 holes which is why I think the two are connected. If you fill them with the cipher, it doesn't matter which way you hold the card or from which end you fill the holes with the cipher. Because the rows are staggered, the circled 8s always end up in a different row. So the card seems to indicate that the circled 8s should be filtered out. They may also have a meaning of their own, but it seems they're primary there as spacers for K and M.
 
 ![img4](media/8fillter.png)
 
 
-### **The N in the middle**
+### **The N three-letter groups**
 
-With the circled 8s treated as nulls/spacers, the cipher is 10 symbols long and would also fit with his claimed killcount in the letter.
-You can split it into two equal halves. Each N is the middle of a three-letter group: ENO in the first half and YNA in the second. Those are ONE and ANY in reverse.
+With the circled 8s treated as nulls/spacers, the cipher is 10 symbols long and would also fit with his claimed killcount of "ten" in the letter.
+It has two equal halves. Each half has an N in the middle and every N is the middle of a three-letter group: ENO in the first half and YNA in the second. Those are ONE and ANY in reverse.
 
 ![img5](media/Z13_CENTER_N.png)
 
-### **Two readings**
 
-First: Read the two groups backwards, from right to left, and you get ANY, then ONE: "anyone". That could be the answer to "My name is —". 
+## **Two readings**
+
+### First:
+Read the two groups backwards, from right to left, and you get ANY, then ONE: "anyone". That could be the answer to "My name is —". 
 
 ![img6](media/Z13_anyone.png)
 
-Second: Turn the two groups around so they read left to right, and the whole cipher becomes readable: "A ONE K, MANY M", one thousand, many million. That adds to his question about how much money is on his head.
+I don't know if zodiac read homers odeysseus, but what is interesting is that this has also a bit of a parallel with when odeysseus tricked the cyclops by calling himself nobody.
+```QUOTE
+"Cyclops, you asked my noble name, and I will tell it; but do you give the stranger's gift, just as you promised. 
+My name is Nobody.
+Nobody I am called by mother, father, and by all my comrades."
+```
+
+
+### Second:
+Turn the two groups around so they read left to right, and the whole cipher becomes readable: "A ONE K, MANY M", one thousand, many million. That adds to his question about how much money is on his head.
 
 ![img7](media/Z13_KM.png)
 
-So you get both an answer to "my name is …" and an addition to the reward question.
+So you get both an answer to "my name is---" and an addition to the reward question.
 
 ### **The $1,000**
 
-What makes it more interesting is that the "one thousand" doesn't seem arbitrary. I only found this later: the Yellow Cab Company had put up a $1,000 reward in January 1970.
+What makes it more interesting is that the "A one thousand" doesn't seem arbitrary. I only found this later: the Yellow Cab Company had put up a $1,000 reward in January 1970.
+3 months before the Z13 letter.
 
 ```QUOTE
 On January 29th 1970, the Yellow Cab Company put up a thousand dollar reward for any information leading to the arrest of the Zodiac Killer.
@@ -60,6 +72,8 @@ This news was likely what prompted the Zodiac Killer to open this communication 
 
 source: https://www.zodiacciphers.com/my-name-is-cipher.html
 ```
+
+The Questions "A one Thousand, many Million?" would hint that he thinks that $1,000 is far to low, and it hurt his ego, making it also a taunt.
 
 ![reward](media/900x0_Resize.jpg)
 
