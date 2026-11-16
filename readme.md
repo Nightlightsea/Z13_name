@@ -63,7 +63,12 @@ source: https://www.zodiacciphers.com/my-name-is-cipher.html
 
 ![reward](media/900x0_Resize.jpg)
 
-### Result
----
+## Result
 
-![imgcircled 8](media/Z13-anyone4.gif)
+### Picture:
+
+![imgresult](media/Z13_ALL.png)
+
+### Animation:
+
+![ani](media/Z13-anyone4-resize.gif)
