@@ -14,7 +14,7 @@ I don't think any symbols in the cipher were actually replaced. Everything is as
 
 ### **How I got there**
 
-![Z13](media/only_z13.png)
+![Z13](media/Only_Z13.png)
 
 At first I didn't know what was going on in the cipher. But I thought it was slightly odd that, right after the cipher, he asks for a reward money for him ("I am mildly cerous as to how much money you have on my head now"). Then I realized the K and M which are serperated with the circled 8s from the rest of the cipher in the middle, might be abbreviations for large numbers, 
 thousand and million.
@@ -34,7 +34,7 @@ On the punch-hole card he also asks about the reward money ("What is the price t
 
 With the circled 8s removed as nulls, the cipher is 10 symbols long. You can split it into two halves of five, and an N sits exactly in the center of each half. Each N is the middle of a three-letter group: ENO in the first half and YNA in the second. Those are ONE and ANY in reverse.
 
-![img5](media/z13_centerN.png)
+![img5](media/Z13_CENTER_N.png.png)
 
 ### **Two readings**
 
