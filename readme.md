@@ -17,13 +17,13 @@ The O was turned into a crosshair, and the Y was drawn as the Greek Y (upsilon) 
 ![Z13](media/Only_Z13_color.png)
 
 At first I didn't know what was going on in the cipher. But I thought it was slightly odd that, right after the cipher, he asks for a reward money for him ("I am mildly cerous as to how much money you have on my head now"). Then I realized that the K and M are serperated by the circled 8s from the rest of the cipher, they have to be somehow special.
-I thought they might be initials, but in conjuction with the reward question, it came to my mind that they could actually be abbreviations for large numbers, 
+I thought they might be initials, but taking the reward question into account, it came to my mind that they could actually be abbreviations for large numbers, 
 thousand and million to be specific.
 
 ![img2](media/large-number-abbreviations_resize.png)
 
 If so, I thought there might be something more in the cipher that points to this, and there it was: ONE and MANY, an amount, written in reverse. 
-Turned around, they give "A one K, M many", or intepreting this it would be "A one thousand. many million.". that would be an addition to the reward money question, but it would be missing the answer for "My name is---", so i looked further.
+Turned around, they give "A one K, M many", or intepreting this it would be "A one thousand. many million.". that would be an addition to the reward money question, but it would be missing the answer for "My name is---", so i looked further, and there actually seems to be a simple manipulation to get both. 
 
 ### **The punch-hole card**
 
@@ -65,7 +65,7 @@ Nobody I am called by mother, father, and by all my comrades."
 ```
 
 ### Second:
-Turn the two groups around so they read left to right, and the whole cipher becomes readable: "A ONE K MANY M", one thousand, many million. You have two sentences if every half is it's own. That adds to his question about how much money is on his head.
+Now reverse each trigram so they read left to right, and the whole cipher becomes readable: "A ONE K MANY M", one thousand, many million. You have two sentences if every half is it's own. That adds to his question about how much money is on his head.
 
 ![img7](media/Z13_KM.png)
 
@@ -73,7 +73,8 @@ So you get both an answer to "my name is---" and an addition to the reward quest
 
 ### **The $1,000**
 
-What makes it more interesting is that the "A one thousand" doesn't seem arbitrary. I only found this later: the Yellow Cab Company had put up a $1,000 reward in January 1970.
+What makes it more interesting is that the "A one thousand" doesn't seem arbitrary. 
+I only found this later: the Yellow Cab Company had put up a $1,000 reward in January 1970 for Zodiac.
 3 months before the Z13 letter.
 
 ```QUOTE
