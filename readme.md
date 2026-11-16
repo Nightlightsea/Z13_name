@@ -16,7 +16,7 @@ The O was turned into a crosshair, and the Y was drawn as the Greek Y (upsilon) 
 
 ![Z13](media/Only_Z13_color.png)
 
-At first I didn't know what was going on in the cipher. But I thought it was slightly odd that, right after the cipher, he asks for a reward money for him ("I am mildly cerous as to how much money you have on my head now"). Then I realized that the K and M are serperated by the circled 8s from the rest of the cipher, could be abbreviations for large numbers, 
+At first I didn't know what was going on in the cipher. But I thought it was slightly odd that, right after the cipher, he asks for a reward money for him ("I am mildly cerous as to how much money you have on my head now"). Then I realized that the K and M are serperated by the circled 8s from the rest of the cipher, they could be abbreviations for large numbers, 
 thousand and million.
 
 ![img2](media/large-number-abbreviations_resize.png)
@@ -45,7 +45,7 @@ Read the two groups backwards, from right to left, and you get ANY, then ONE: "a
 
 ![img6](media/Z13_anyone.png)
 
-Also cool is, if you turn the letter 90° clockwise, the beginning letter of the previous sentence, cipher, next sentence form "I AM", together it would make "I AM ANYONE".
+Also cool is, if you turn the letter 90° clockwise, the beginning letter of the previous sentence, cipher, and next sentence form "I AM", together it would make "I AM ANYONE".
 
 ![imgIAM](media/IAM-ANYONE.png)
 
