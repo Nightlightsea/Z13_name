@@ -49,13 +49,13 @@ Also cool is, if you turn the letter 90° clockwise, the beginning letter of the
 
 ![imgIAM](media/IAM-ANYONE.png)
 
-I don't know if zodiac read homers odeysseus, but what is interesting is that this has also a bit of a parallel with when odeysseus tricked the cyclops by calling himself nobody.
+I don't know if zodiac read homers odyssee by how many greek symbols he uses in his ciphers it wouldn't be suprising.
+What is interesting is that this has also a bit of a parallel with when odeysseus tricked the cyclops by calling himself nobody.
 ```QUOTE
 "Cyclops, you asked my noble name, and I will tell it; but do you give the stranger's gift, just as you promised. 
 My name is Nobody.
 Nobody I am called by mother, father, and by all my comrades."
 ```
-
 
 ### Second:
 Turn the two groups around so they read left to right, and the whole cipher becomes readable: "A ONE K. MANY M", one thousand, many million. That adds to his question about how much money is on his head.
