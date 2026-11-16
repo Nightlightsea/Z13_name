@@ -34,7 +34,7 @@ On the punch-hole card he also asks about the reward money ("What is the price t
 
 With the circled 8s removed as nulls, the cipher is 10 symbols long. You can split it into two halves of five, and an N sits exactly in the center of each half. Each N is the middle of a three-letter group: ENO in the first half and YNA in the second. Those are ONE and ANY in reverse.
 
-![img5](media/Z13_CENTER_N.png.png)
+![img5](media/Z13_CENTER_N.png)
 
 ### **Two readings**
 
