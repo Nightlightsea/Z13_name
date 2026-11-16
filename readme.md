@@ -19,20 +19,21 @@ I don't think any symbols in the cipher were actually replaced. Everything is as
 At first I didn't know what was going on in the cipher. But I thought it was slightly odd that, right after the cipher, he asks for a reward money for him ("I am mildly cerous as to how much money you have on my head now"). Then I realized the K and M which are serperated with the circled 8s from the rest of the cipher in the middle, might be abbreviations for large numbers, 
 thousand and million.
 
-![img2](media/large-number-abbreviations.webp)
+![img2](media/large-number-abbreviations_resize.png)
 
 If so, I thought there might be an amount somewhere else in the cipher, and there it was: ONE and MANY, written in reverse. Turned around, they give "A one K, many M", so "A one thousand, many million". that would be an addition to the reward money question, but it would be missing the answer for the lead in to the cipher "My name is---", so i looked further.
 
 ### **The punch-hole card**
 
-On the punch-hole card he also asks about the reward money ("What is the price tag now?"), and the card has 13 holes which is why I think the two are connected. If you fill them with the cipher, it doesn't matter which way you hold the card or from which end you fill the holes with the cipher. Because the rows are staggered, the circled 8s always end up on the other row. So the card seems to indicate that the circled 8s should be filtered out. They may have a meaning of their own, but maybe they're there to mark K and M as separate, possible abbreviations.
+On the punch-hole card he also asks about the reward money ("What is the price tag now?"), and the card has 13 holes which is why I think the two are connected. If you fill them with the cipher, it doesn't matter which way you hold the card or from which end you fill the holes with the cipher. Because the rows are staggered, the circled 8s always end up on the other row. So the card seems to indicate that the circled 8s should be filtered out. They may have a meaning of their own, but maybe they're there as spacers for the K and M abbreviations.
 
 ![img4](media/8fillter.png)
 
 
 ### **The N in the middle**
 
-With the circled 8s removed as nulls, the cipher is 10 symbols long. You can split it into two halves of five, and an N sits exactly in the center of each half. Each N is the middle of a three-letter group: ENO in the first half and YNA in the second. Those are ONE and ANY in reverse.
+With the circled 8s treated as nulls/spacers, the cipher is 10 symbols long (i removed them just for visual clarity). You can split it into two equal halves.
+Each N is the middle of a three-letter group: ENO in the first half and YNA in the second. Those are ONE and ANY in reverse.
 
 ![img5](media/Z13_CENTER_N.png)
 
@@ -59,6 +60,8 @@ This news was likely what prompted the Zodiac Killer to open this communication 
 
 source: https://www.zodiacciphers.com/my-name-is-cipher.html
 ```
+
+![reward](media/900x0_Resize.jpg)
 
 ### Result
 ---
