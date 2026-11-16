@@ -41,7 +41,7 @@ Each half has an N in the middle, and every N is the middle of a three-letter gr
 
 ![img5](media/Z13_CENTER_N.png)
 
-* **seperated only for visual clarity**
+*seperated only for visual clarity
 
 
 ## **Two readings**
