@@ -8,7 +8,7 @@ I know this theory will be heavily criticized, so I'll address the main criticis
 
 I don't think any symbols in the cipher were actually completly replaced. 
 Everything is as it appears, except that two letters were altered slightly.
-The O was turned into a crosshair, and the Y was drawn as the Greek Y (upsilon) turned upside down.
+The O was turned into a crosshair, and the Y was drawn as the Greek Y (upsilon) and then turned upside down.
 
 ![img1](media/Upsilonconnection.drawio.png)
 
@@ -16,8 +16,9 @@ The O was turned into a crosshair, and the Y was drawn as the Greek Y (upsilon) 
 
 ![Z13](media/Only_Z13_color.png)
 
-At first I didn't know what was going on in the cipher. But I thought it was slightly odd that, right after the cipher, he asks for a reward money for him ("I am mildly cerous as to how much money you have on my head now"). Then I realized that the K and M are serperated by the circled 8s from the rest of the cipher, they have to be somehow special, i thought they might be initials, but in conjuction with the reward question, it came to my mind that they could actually be abbreviations for large numbers, 
-thousand and million.
+At first I didn't know what was going on in the cipher. But I thought it was slightly odd that, right after the cipher, he asks for a reward money for him ("I am mildly cerous as to how much money you have on my head now"). Then I realized that the K and M are serperated by the circled 8s from the rest of the cipher, they have to be somehow special.
+I thought they might be initials, but in conjuction with the reward question, it came to my mind that they could actually be abbreviations for large numbers, 
+thousand and million to be specific.
 
 ![img2](media/large-number-abbreviations_resize.png)
 
@@ -27,7 +28,7 @@ Turned around, they give "A one K, M many", or intepreting this it would be "A o
 ### **The punch-hole card**
 
 On the punch-hole card he also asks about the reward money ("What is the price tag now?"), and the card has 13 holes it isn't unlikely that they are connected. 
-If you fill the holes with the cipher, it doesn't matter which way you hold the card or from which end you fill the holes, because the rows are staggered, the circled 8s always end up in a different row. So the card seems to indicate that the circled 8s should be filtered out. They may also have a meaning of their own, but it seems they're primary there as spacers for K and M. Possibly to make us understand that they are special, in this case as large number abbreviations.
+If you fill the holes with the cipher, it doesn't matter which way you hold the card or from which end you fill the holes, because the holes are staggered, the circled 8s always end up in a different row. So the card seems to indicate that the circled 8s should be filtered out. They may also have a meaning of their own, but it seems they're primary there as spacers for K and M. Possibly to make us understand that they are special, in this case as large number abbreviations.
 
 ![img4](media/8fillter.png)
 
@@ -35,7 +36,8 @@ If you fill the holes with the cipher, it doesn't matter which way you hold the 
 ### **The N three-letter groups**
 
 With the circled 8s treated as nulls/spacers, the cipher is 10 symbols long and would also fit with his claimed killcount of "ten" in the Z13 letter.
-It has two equal halves. Each half has an N in the middle and every N is the middle of a three-letter group: ENO in the first half and YNA in the second. Those are ONE and ANY in reverse.
+It has two equal halves of length 5. 
+Each half has an N in the middle, and every N is the middle of a three-letter group: ENO in the first half and YNA in the second. Those are ONE and ANY in reverse.
 
 ![img5](media/Z13_CENTER_N.png)
 
