@@ -14,7 +14,7 @@ I don't think any symbols in the cipher were actually replaced. Everything is as
 
 ### **How I got there**
 
-![Z13](media/Only_Z13.png)
+![Z13](media/Only_Z13_color.png)
 
 At first I didn't know what was going on in the cipher. But I thought it was slightly odd that, right after the cipher, he asks for a reward money for him ("I am mildly cerous as to how much money you have on my head now"). Then I realized the K and M which are serperated with the circled 8s from the rest of the cipher in the middle, might be abbreviations for large numbers, 
 thousand and million.
