@@ -50,7 +50,7 @@ Also cool is, if you turn the letter 90° clockwise, the beginning letter of the
 ![imgIAM](media/IAM-ANYONE.png)
 
 I don't know if zodiac read homers odyssee by how many greek symbols he uses in his ciphers it wouldn't be suprising.
-What is interesting is that this has also a bit of a parallel with when odeysseus tricked the cyclops by calling himself nobody.
+What is interesting is that this has also a bit of a parallel with when odeysseus tricked the cyclops by calling himself "nobody".
 ```QUOTE
 "Cyclops, you asked my noble name, and I will tell it; but do you give the stranger's gift, just as you promised. 
 My name is Nobody.
@@ -78,7 +78,7 @@ What makes it more interesting is that the "A one thousand" doesn't seem arbitra
 
 ```QUOTE
 On January 29th 1970, the Yellow Cab Company put up a thousand dollar reward for any information leading to the arrest of the Zodiac Killer.
-In addition, the Teamsters Union which represents the Yellow Cab Company were reported in the San Francisco Chronicle to be considering offering a further reward on February circled 8th 1970 in the case of Paul Stine and Charles Jarman (another taxicab murder victim).
+In addition, the Teamsters Union which represents the Yellow Cab Company were reported in the San Francisco Chronicle to be considering offering a further reward on February 8th 1970 in the case of Paul Stine and Charles Jarman (another taxicab murder victim).
 This news was likely what prompted the Zodiac Killer to open this communication with the words "I am mildly cerous as to how much money you have on my head now".
 
 source: https://www.zodiacciphers.com/my-name-is-cipher.html
