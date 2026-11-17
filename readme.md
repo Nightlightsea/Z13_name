@@ -5,7 +5,7 @@
 
 ## **Foreword**
 
-I know this theory will be heavily criticized, so I'll address the main criticism first.
+I know this theory will be heavily criticized, so I'll address what will likely be the main criticism first.
 
 ### **No real substitution**
 
