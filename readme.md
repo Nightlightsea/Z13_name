@@ -55,7 +55,11 @@ That could be the answer to "My name is —".
 
 ![img6](media/Z13_anyone.png)
 
-Also cool is, if you turn the letter 90° clockwise, the first letter of the previous sentence ("M"), cipher ("A"), and next sentence ("I") form "I AM", together it would make "I AM ANYONE".
+Also cool is, if you turn the letter 90° clockwise, the first letter of the
+previous sentence ("M"), 
+cipher ("A"), 
+and next sentence ("I") 
+form "I AM", together it would make "I AM ANYONE".
 
 ![imgIAM](media/IAM-ANYONE.png)
 
