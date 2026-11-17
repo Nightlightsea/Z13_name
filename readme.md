@@ -112,7 +112,7 @@ Either way, here are the end results as picture and animation.
 
 Letter version:
 
-![ani1](media/letter_iam_anyonev2_rz.gif)
+![ani1](media/letter_iam_anyonev3_rz.gif)
 
 Only symbol version:
 
