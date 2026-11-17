@@ -110,4 +110,10 @@ Either way, here are the end results as picture and animation.
 
 ### Animation:
 
-![ani](media/Z13-anyone4-resize.gif)
+Letter version:
+
+![ani1](media/letter_iam_anyonev2_rz.gif)
+
+Only symbol version:
+
+![ani2](media/Z13-anyone4-resize.gif)
