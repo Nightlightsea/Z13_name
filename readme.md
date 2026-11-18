@@ -15,9 +15,16 @@ The O was turned into a crosshair, and the Y was drawn as the Greek Y (upsilon) 
 
 ![img1](media/Upsilonconnection.drawio.png)
 
-## **How I got there**
+#### Result:
+
 
 ![Z13](media/Only_Z13_color.png)
+
+## **How I got there**
+
+
+
+### Number Abbreviations
 
 At first I didn't know what was going on in the cipher. But I thought it was slightly odd that, right after the cipher, he asks for a reward money for him ("I am mildly cerous as to how much money you have on my head now"). Then I realized that the K and M are serperated by the circled 8s from the rest of the cipher, they have to be somehow special.
 I thought they might be initials, but taking the reward question into account, it came to my mind that they could actually be abbreviations for large numbers, 
@@ -25,8 +32,11 @@ thousand and million to be specific.
 
 ![img2](media/large-number-abbreviations_resize.png)
 
+NOTE: Rewrite this \
 If so, I thought there might be something more in the cipher that points to this, and there it was: ONE and MANY, an amount, written in reverse. 
-Turned around, they give "A one K, M many", or intepreting this it would be "A one thousand. many million.". that would be an addition to the reward money question, but it would be missing the answer for "My name is---", so i looked further, and there actually seems to be a simple manipulation to get both. 
+Turned around, they give "A ONE K - MANY M", or intepreting this it would be "A one thousand. many million.". that would be an addition to the reward money question, but it would be missing the answer for "My name is---", so i looked further, and there actually seems to be a simple manipulation to get both. 
+
+![Price_money](media/Z13_MANY_M.png)
 
 ### **The punch-hole card**
 
