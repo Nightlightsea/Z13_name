@@ -110,7 +110,7 @@ Either way, here are the end results as picture and animation.
 
 ### Picture:
 
-![imgresult](media/Z13_ALL.png)
+![imgresult](media/Z13_ALL3.png)
 
 ### Animation:
 
