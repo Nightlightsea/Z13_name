@@ -3,6 +3,8 @@
 
 ![img0](media/Z13_cipher_full-resize.png)
 
+AEN⌖⑧K⑧M⑧۸NAM
+
 ## **Foreword**
 
 I know this theory will be heavily criticized, so I'll address what will likely be the main criticism first.
@@ -11,18 +13,22 @@ I know this theory will be heavily criticized, so I'll address what will likely 
 
 I don't think any symbols in the cipher were actually completly replaced. 
 Everything is as it appears, except that two letters were altered slightly.
-The O was turned into a crosshair, and the Y was drawn as the Greek Y (upsilon) and then turned upside down.
+The O was turned into a crosshair (**⌖**), and the Y was drawn as the Greek Y (upsilon **𝚼**) and then turned upside down.
 
 ![img1](media/Upsilonconnection.drawio.png)
 
 I had this idea for a while already because i thought for such a short cipher even he must have realized that substitution is too much.
 I was convinced that it had to say "MY NAME" and wrote a long unpublished hypothesis.
-It was good that i didn't publish it because when i thought more about it i realized how many arbitrary manipulations i needed for it.
-Now i put effort in to avoid that but the idea that crosshair and the Anchor/upside-down-Upsilon are "O" and "Y" stuck, it fit quite well, and it got me to this here.
+It was good that i didn't publish it, because when i thought more about it i realized how many arbitrary manipulations i needed for it.
+Now i put more effort in, to avoid such problem but the idea that crosshair and the Anchor/upside-down-Upsilon 𝚼 are "O" and "Y" stuck, and that is what got me to this here.
 
 #### Result:
 
 ![Z13](media/Only_Z13_color.png)
+
+AEN⌖⑧K⑧M⑧۸NAM -> \
+AEN⌖⑧K⑧M⑧𝚼NAM -> \
+AENO⑧K⑧M⑧YNAM
 
 ## **How I got here**
 
@@ -39,6 +45,13 @@ If so, I thought there might be something more in the cipher that points to this
 Turned around, they give "A ONE K - MANY M", or intepreting this it would be "A one thousand. many million.". that would be an addition to the reward money question, but it would be missing the answer for "My name is---", so i looked further, and there actually seems to be a simple manipulation to get both. 
 
 ![Price_money](media/Z13_MANY_M.png)
+
+AEN⌖⑧K⑧M⑧۸NAM -> \
+AENO⑧K⑧M⑧YNAM -> \
+AONE⑧K⑧MANY⑧M -> \
+A-ONE_K_MANY_M
+
+## **Where is the name?** 
 
 ### **The punch-hole card**
 
