@@ -15,19 +15,21 @@ The O was turned into a crosshair, and the Y was drawn as the Greek Y (upsilon) 
 
 ![img1](media/Upsilonconnection.drawio.png)
 
-#### Result:
+I had this idea for a while already because i thought for such a short cipher even he must have realized that substitution is too much.
+I was convinced that it had to say "MY NAME" and wrote a long unpublished hypothesis.
+It was good that i didn't publish it because when i thought more about it i realized how many arbitrary manipulations i needed for it.
+Now i put effort in to avoid that but the idea that crosshair and the Anchor/upside-down-Upsilon are "O" and "Y" stuck, it fit quite well, and it got me to this here.
 
+#### Result:
 
 ![Z13](media/Only_Z13_color.png)
 
-## **How I got there**
-
-
+## **How I got here**
 
 ### Number Abbreviations
 
-At first I didn't know what was going on in the cipher. But I thought it was slightly odd that, right after the cipher, he asks for a reward money for him ("I am mildly cerous as to how much money you have on my head now"). Then I realized that the K and M are serperated by the circled 8s from the rest of the cipher, they have to be somehow special.
-I thought they might be initials, but taking the reward question into account, it came to my mind that they could actually be abbreviations for large numbers, 
+At first I didn't know what was going on in the cipher. But I thought it was slightly odd that, right after the cipher, he asks for a reward money for him ("I am mildly cerous as to how much money you have on my head now"). Then I realized that the "K" and "M" are serparated by the circled 8s from the rest of the cipher, they have to be somehow special.
+I thought they might be initials for a long time, but taking the reward question now into account, it came to my mind that they could actually be abbreviations for large numbers, 
 thousand and million to be specific.
 
 ![img2](media/large-number-abbreviations_resize.png)
