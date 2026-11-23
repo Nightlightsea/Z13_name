@@ -19,7 +19,7 @@ The O was turned into a crosshair (**⌖**), and the Y was drawn as the Greek Y 
 
 I had this idea for a while already because i thought for such a short cipher even he must have realized that substitution is too much.
 I was convinced that it had to say "MY NAME" and wrote a long unpublished hypothesis.
-It was good that i didn't publish it, because when i thought more about it i realized how many arbitrary manipulations i needed for it.
+It was good that i didn't publish it, because when i thought more on it i realized how many arbitrary manipulations i needed for it.
 Now i put more effort in, to avoid such problem but the idea that crosshair and the Anchor/upside-down-Upsilon 𝚼 are "O" and "Y" stuck, and that is what got me to this here.
 
 #### Result:
@@ -51,7 +51,25 @@ AENO⑧K⑧M⑧YNAM -> \
 AONE⑧K⑧MANY⑧M -> \
 A-ONE_K_MANY_M
 
-## **Where is the name?** 
+## **What about the name?** 
+
+### **Looking closer**
+
+So this leaves the issue that the lead in to the cipher was "my name is--" but you would first suspect the cipher to answer the name question before it gets to the reward.
+Well it actually does, there is something that seems more than a statistical anomaly. 
+In the initial position of the cipher "One" is reversed, the interesting thing is that many contains the word "Any" which would also be reversed in the initial positions.
+Not only that bad both contain an "N" in the middle, "N" is the only symmetric letter in the cipher (not conting the circled 8s).
+Both start 1 letter away from the edge end, so also from the start of their respective sentences.
+So since "One" and "Any" are reversed in thier initial position lets read them in the direction that makes them readable, Right to left.
+You get "ANYONE", very interestingly, if you take the cipher and turn it 90° clockwise, the previous sentence , cipher, next senteces first letter create "I AM" with the cipher being the center.
+
+first letter| rest
+-|-
+M|My Name is--
+A|AEN⌖⑧K⑧M⑧۸NAM
+I|I am mildly cerous how much money...
+
+
 
 ### **The punch-hole card**
 
