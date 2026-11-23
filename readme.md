@@ -63,7 +63,7 @@ Both start 1 letter away from the edge end, so also from the start of their resp
 So since "One" and "Any" are reversed in thier initial position lets read them in the direction that makes them readable, Right to left.
 You get "ANYONE", very interestingly, if you take the cipher and turn it 90° clockwise, the previous sentence , cipher, next senteces first letter create "I AM" with the cipher being the center.
 
-first letter| rest
+first letter| Sentence
 -|-
 M|My Name is--
 A|AEN⌖⑧K⑧M⑧۸NAM
