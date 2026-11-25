@@ -1,7 +1,8 @@
 
 # Zodiacs Z13 letter, April 20, 1970.
 
-![img0](media/Z13_cipher_full-resize.png)
+![full_letter](media/cipher/Z13_cipher_full-resize.png)
+![cipher](media/cipher/Z13_cipher_cutout_adjacent_rows_rz.png)
 
 AEN⌖⑧K⑧M⑧۸NAM
 
@@ -40,7 +41,6 @@ thousand and million to be specific.
 
 ![img2](media/large-number-abbreviations_resize.png)
 
-NOTE: Rewrite this \
 If so, I thought there might be something more in the cipher that points to this, and there it was: ONE and MANY, an amount, written in reverse. 
 Turned around, they give "A ONE K - MANY M", or intepreting this it would be "A one thousand. many million.". that would be an addition to the reward money question, but it would be missing the answer for "My name is---", so i looked further, and there actually seems to be a simple manipulation to get both. 
 
@@ -58,16 +58,21 @@ A-ONE_K_MANY_M
 So this leaves the issue that the lead in to the cipher was "my name is--" but you would first suspect the cipher to answer the name question before it gets to the reward.
 Well it actually does, there is something that seems more than a statistical anomaly. 
 In the initial position of the cipher "One" is reversed, the interesting thing is that many contains the word "Any" which would also be reversed in the initial positions.
-Not only that bad both contain an "N" in the middle, "N" is the only symmetric letter in the cipher (not conting the circled 8s).
+Not only that bad both contain an "N" in the middle, "N" is the only symmetric letter in the cipher (not counting the circled 8s).
 Both start 1 letter away from the edge end, so also from the start of their respective sentences.
 So since "One" and "Any" are reversed in thier initial position lets read them in the direction that makes them readable, Right to left.
+
+![symmetry](media/Z13_symmetry.png)
+
 You get "ANYONE", very interestingly, if you take the cipher and turn it 90° clockwise, the previous sentence , cipher, next senteces first letter create "I AM" with the cipher being the center.
 
-first letter| Sentence
--|-
-M|My Name is--
-A|AEN⌖⑧K⑧M⑧۸NAM
-I|I am mildly cerous how much money...
+![IAM](media/visual_aid/Z13_IAM_rz.png)
+|-|first letter| Sentence                 |
+|-|------------|--------------------------|
+|3|M|My Name is--                         |
+|2|A|AEN⌖⑧K⑧M⑧۸NAM                      |
+|1|I|I am mildly cerous how much money... |
+
 
 
 
@@ -138,29 +143,3 @@ source: https://www.zodiacciphers.com/my-name-is-cipher.html
 The Questions "A one Thousand. many Million?" would show that he thinks that $1,000 is far to low, and it hurt his ego, making it also a taunt.
 
 ![reward](media/900x0_Resize.jpg)
-
-### Punctuation:
-Something that i may have to adress is that i added . and ? to "A ONE K. MANY M?".
-There is also a hint to that in the punchhole card. he got his sentences from newpapers but for when he asked for a reward money again
-".FK i'm crackproof. What is the price tag now?" 
-He instead of using text from newspaper wrote the . and ? himself so maybe this is a hint, or just coincidence?
-
-![punch](media/anyone-stuff.png)
-
-## Result
-
-Either way, here are the end results as picture and animation.
-
-### Picture:
-
-![imgresult](media/Z13_ALL3.png)
-
-### Animation:
-
-Letter version:
-
-![ani1](media/letter_iam_anyonev3_rz.gif)
-
-Only symbol version:
-
-![ani2](media/Z13-anyone4-resize.gif)
