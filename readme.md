@@ -1,10 +1,11 @@
-
 # Zodiacs Z13 letter, April 20, 1970.
 
-![full_letter](media/cipher/Z13_cipher_full-resize.png)
 ![cipher](media/cipher/Z13_cipher_cutout_adjacent_rows_rz.png)
 
-AEN⌖⑧K⑧M⑧۸NAM
+Cipher transcription:
+```text
+A E N ⌖ ⑧ K ⑧ M ⑧ ۸ N A M
+```
 
 ## **Foreword**
 
@@ -27,9 +28,13 @@ Now i put more effort in, to avoid such problem but the idea that crosshair and 
 
 ![Z13](media/Only_Z13_color.png)
 
-AEN⌖⑧K⑧M⑧۸NAM -> \
-AEN⌖⑧K⑧M⑧𝚼NAM -> \
-AENO⑧K⑧M⑧YNAM
+```text
+A E N [⌖] ⑧ K ⑧ M ⑧ [۸] N A M 
+       ↓  flipping 𝚼  ↓ 
+A E N [⌖] ⑧ K ⑧ M ⑧ [𝚼] N A M
+       ↓              ↓ 
+A E N [O] ⑧ K ⑧ M ⑧ [Y] N A M 
+```
 
 ## **How I got here**
 
@@ -46,10 +51,13 @@ Turned around, they give "A ONE K - MANY M", or intepreting this it would be "A 
 
 ![Price_money](media/Z13_MANY_M.png)
 
-AEN⌖⑧K⑧M⑧۸NAM -> \
-AENO⑧K⑧M⑧YNAM -> \
-AONE⑧K⑧MANY⑧M -> \
-A-ONE_K_MANY_M
+```text
+A [E N O] ⑧ K ⑧ [M ⑧ Y N A M]
+     ↓                 ↓ 
+A [O N E] ⑧ K ⑧ [M A N Y ⑧ M]
+
+[ A ONE K ] [ MANY M ]
+```
 
 ## **What about the name?** 
 
@@ -70,67 +78,34 @@ You get "ANYONE", very interestingly, if you take the cipher and turn it 90° cl
 |-|first letter| Sentence                 |
 |-|------------|--------------------------|
 |3|M|My Name is--                         |
-|2|A|AEN⌖⑧K⑧M⑧۸NAM                      |
+|2|A|A E N ⌖ ⑧ K ⑧ M ⑧ ۸ N A M          |
 |1|I|I am mildly cerous how much money... |
 
 
+### **Coincidences?**
 
+There is even something wilder. The only times the Zodiac asked for any reward money on him it was in the Z13 letter and the Punch-hole card. 
+The Punch-hole card also has 13 punch-holes 10 in one row and 3 in the another row. 
+If you fill the holes with the cipher it doesn't matter from which direction you the holes fill the circled 8s get fillter to the 3 hole row. 
+Leaving all letters in the 10 hole row, in the Z13 letter he claimed to have killed 10 people. 
 
-### **The punch-hole card**
+![punch-hole](media/visual_aid/8fillter.png)
 
-On the punch-hole card he also asks about the reward money ("What is the price tag now?"), and the card has 13 holes it isn't unlikely that they are connected. 
-If you fill the holes with the cipher, it doesn't matter which way you hold the card or from which end you fill the holes, because the holes are staggered, the circled 8s always end up in a different row. So the card seems to indicate that the circled 8s should be filtered out. They may also have a meaning of their own, but it seems they're primary there as spacers for K and M. Possibly to make us understand that they are special, in this case as large number abbreviations.
+This makes the symmetry even stronger now N and with it the Trigrams sit exactly in the middle of both halves.
 
-![img4](media/8fillter.png)
-
-
-### **The N three-letter groups**
-
-With the circled 8s treated as nulls/spacers, the cipher is 10 symbols long and would also fit with his claimed killcount of "ten" in the Z13 letter.
-It has two equal halves of length 5. 
-Each half has an N in the middle, and every N is the middle of a three-letter group: ENO in the first half and YNA in the second. Those are ONE and ANY in reverse.
-
-![img5](media/Z13_CENTER_N.png)
-
-*seperated only for visual clarity
-
-
-## **Two readings**
-
-### First:
-Read the two groups backwards, from right to left, and you get ANY, then ONE: "anyone". 
-That could be the answer to "My name is —". 
-
-![img6](media/Z13_anyone.png)
-
-Also cool is, if you turn the letter 90° clockwise, the first letter of the \
-previous sentence: "M" \
-cipher code:      "A" \
-and next sentence: "I"  \
-form "I AM", together it would make "I AM ANYONE".
-
-![imgIAM](media/IAM-ANYONE.png)
-
-This might be coincidence.
-I don't know if zodiac read homers odyssee, but what is interesting is that this has also a bit of a parallel with when odeysseus tricked the cyclops by calling himself "nobody".
-```QUOTE
-"Cyclops, you asked my noble name, and I will tell it; but do you give the stranger's gift, just as you promised. 
-My name is Nobody.
-Nobody I am called by mother, father, and by all my comrades."
+```text
+A [E N O] K     M [Y N A] M
+A [O N E] K     M [A N Y] M
 ```
 
-### Second:
-Now reverse each trigram so they read left to right, and the whole cipher becomes readable: "A ONE K MANY M", one thousand, many million. You have two sentences if every half is it's own. That adds to his question about how much money is on his head.
+![anyone](media/visual_aid/Z13_anyone.png)
 
-![img7](media/Z13_KM.png)
+Further more now you just need to mirror the trigrams to get "A ONE K - MANY MILLION".
 
-So you get both an answer to "my name is---" and an addition to the reward question, by only reversing 2 trigrams.
+![1KmM](media/visual_aid/Z13_KM.png)
 
-### **The $1,000**
-
-What makes it more interesting is that the "A one thousand" doesn't seem arbitrary. 
-I only found this later: the Yellow Cab Company had put up a $1,000 reward in January 1970 for Zodiac.
-3 months before the Z13 letter.
+What i hadn't mentioned above, because i only found it out later was that the Z13 letter was supposedly Zodiacs response to a reward that was put out for him.
+$1000 dollar, is this coincidence or intentional? 
 
 ```QUOTE
 On January 29th 1970, the Yellow Cab Company put up a thousand dollar reward for any information leading to the arrest of the Zodiac Killer.
@@ -140,6 +115,8 @@ This news was likely what prompted the Zodiac Killer to open this communication 
 source: https://www.zodiacciphers.com/my-name-is-cipher.html
 ```
 
-The Questions "A one Thousand. many Million?" would show that he thinks that $1,000 is far to low, and it hurt his ego, making it also a taunt.
+It may explain why he asked again in the Punch-hole card for the reward money even with "PRICE" and bold that time. 
+First of all it is a hint to the solution for the Z13, but also it makes it pretty clear that he didn't like how little reward money they only put out.
+So the "A one Thousand. Many Million?" is also a taunt.
 
-![reward](media/900x0_Resize.jpg)
+![pricetag](media/visual_aid/price_tag.png)
