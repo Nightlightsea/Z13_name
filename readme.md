@@ -70,7 +70,7 @@ Not only that bad both contain an "N" in the middle, "N" is the only symmetric l
 Both start 1 letter away from the edge end, so also from the start of their respective sentences.
 So since "One" and "Any" are reversed in thier initial position lets read them in the direction that makes them readable, Right to left.
 
-![symmetry](media/Z13_symmetry.png)
+![symmetry](media/Z13_Symmetry.png)
 
 You get "ANYONE", very interestingly, if you take the cipher and turn it 90° clockwise, the previous sentence , cipher, next senteces first letter create "I AM" with the cipher being the center.
 
