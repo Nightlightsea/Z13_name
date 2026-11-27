@@ -77,9 +77,9 @@ You get "ANYONE", very interestingly, if you take the cipher and turn it 90° cl
 ![IAM](media/visual_aid/Z13_IAM_rz.png)
 |-|first letter| Sentence                 |
 |-|------------|--------------------------|
-|3|M|My Name is--                         |
-|2|A|A E N ⌖ ⑧ K ⑧ M ⑧ ۸ N A M          |
-|1|I|I am mildly cerous how much money... |
+|3|M|**M**y Name is--                         |
+|2|A|**A** E N ⌖ ⑧ K ⑧ M ⑧ ۸ N A M          |
+|1|I|**I** am mildly cerous how much money... |
 
 
 ### **Coincidences?**
